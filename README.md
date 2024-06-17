@@ -1,6 +1,3 @@
-
-Sure, here's a sample README file for your dataset that you can use for your GitHub repository:
-
 Indian Cities Demographic and Educational Data
 Description
 This dataset contains demographic and educational information for various cities in India. It includes details such as population totals, gender distribution, literacy rates, and the number of graduates, among other statistics. The data can be used for various analyses related to demographics, education, and urban planning.
